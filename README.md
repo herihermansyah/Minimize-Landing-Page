@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📉 Minimize Landing Page
 
-## Getting Started
+A modern, high-fidelity landing page converted from a Figma design into a fully functional web application. This project focuses on pixel-perfect implementation, smooth animations, and clean frontend architecture.
 
-First, run the development server:
+![Project Preview](/public/page.png)
 
-```bash
+
+## 🔗 Project Links
+- **Live Demo:** [https://minimize-landing-page.vercel.app/](https://minimize-landing-page.vercel.app/)
+- **Original Figma Design:** [Figma Community Design](https://www.figma.com/design/D7DG1nc0F81t6i2oo80puf/Minimal-Landing-Page-Design-%7C-Website-Home-Page-Design-%7C-Agency-Website-UI-Design--Community-?node-id=10-946&t=ciLGUGm7Lu6u8oyB-0)
+
+---
+
+## 🚀 Tech Stack
+Built with the latest modern web technologies:
+- **Framework:** Next.js 16 (App Router)
+- **Styling:** Tailwind CSS 4
+- **Animation:** Motion (formerly Framer Motion)
+- **Language:** TypeScript
+- **Icons:** React Icons
+
+## 🛠️ Features
+- **Figma-to-Code:** Seamless conversion with high attention to detail.
+- **Modern Animations:** Smooth scroll and entrance effects using Motion.
+- **Responsive Layout:** Fully optimized for mobile, tablet, and desktop.
+- **Performance:** Optimized images and components for fast loading.
+
+---
+
+## 💻 Getting Started
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/herihrmnsyh/minimize-landing-page.git](https://github.com/herihrmnsyh/minimize-landing-page.git)
+Install dependencies:
+
+Bash
+npm install
+Run the development server:
+
+Bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Open http://localhost:3000 with your browser to see the result.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+👤 Author
+Heri Hermansyah
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+📜 License
+This project is open-source under the MIT License.
